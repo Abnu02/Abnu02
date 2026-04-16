@@ -6,7 +6,7 @@ Welcome to my GitHub! I’m a passionate Computer Science student and developer 
 
 ## 🚀 About Me
 
-- 🎓 CS student**.
+- 🎓 Computer Science graduate**.
 - 🌱 Currently learning **Machine Learning, TypeScript, and scalable backend systems**.
 - 👨‍💻 Building **Smart Order**, a QR-code based smart restaurant ordering and analytics system.
 - 👯 Looking to collaborate on **full-stack projects, hackathons, and open-source initiatives**.
