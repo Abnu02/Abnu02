@@ -42,14 +42,7 @@ Currently focused on **backend architecture, AI integration, and production-read
 
 ---
 
-## 🧠 Contribution Graph (All Commits)
 
-
-
-✅ Includes:
-- Personal repo commits  
-- Private repo contributions (if enabled)  
-- Organization contributions  
 
 👉 To ensure ALL commits show:
 - Go to GitHub → Settings → Profile  
