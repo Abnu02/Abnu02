@@ -36,7 +36,7 @@ Currently focused on **backend architecture, AI integration, and production-read
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abnu02&show_icons=true&theme=radical&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Abnu02&theme=radical)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abnu02&layout=compact&theme=radical)
 
@@ -44,7 +44,7 @@ Currently focused on **backend architecture, AI integration, and production-read
 
 ## 🧠 Contribution Graph (All Commits)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abnu02&theme=react-dark)
+
 
 ✅ Includes:
 - Personal repo commits  
